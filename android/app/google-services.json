@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372530887004",
+    "firebase_url": "https://olx-app-45f26.firebaseio.com",
+    "project_id": "olx-app-45f26",
+    "storage_bucket": "olx-app-45f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372530887004:android:7b66d588820178e20a6999",
+        "android_client_info": {
+          "package_name": "com.olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372530887004-tih3b71i7rmimpa2ll01kaj1st1gun9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fUcFX4thQyaqH6CwSUXhm54T7AZMCYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372530887004-tih3b71i7rmimpa2ll01kaj1st1gun9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
